@@ -1,2 +1,2 @@
 # CervScreenAgeVax
-Age and vaccine specific output for screening sims 
+Age and vaccine specific output for screening sims in Mathematica format. Other code to follow 
